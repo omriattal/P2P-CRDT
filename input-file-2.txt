@@ -1,0 +1,17 @@
+2
+2000
+abc
+
+1 127.0.0.1 1000
+3 127.0.0.1 3000
+
+insert e
+delete 2
+insert y 2
+insert u 1
+insert t
+insert h
+insert k
+delete 2
+
+
